@@ -1,0 +1,7 @@
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\bin\Debug\pequenaCalculadora.exe.config
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\bin\Debug\pequenaCalculadora.exe
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\bin\Debug\pequenaCalculadora.pdb
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\obj\Debug\pequenaCalculadora.csproj.AssemblyReference.cache
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\obj\Debug\pequenaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\obj\Debug\pequenaCalculadora.exe
+C:\Users\pesso\OneDrive\Documentos\TreinandoDorNet\pequenaCalculadora\pequenaCalculadora\obj\Debug\pequenaCalculadora.pdb
